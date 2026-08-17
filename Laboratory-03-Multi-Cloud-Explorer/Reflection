@@ -1,0 +1,19 @@
+1. Which cloud platform impressed you the most?
+
+Google Cloud Platform impressed me the most with its strong focus on artificial intelligence and machine learning. GCP's Cloud TPUs, AI Platform, and pre-trained ML models demonstrate Google's deep commitment to advancing AI technologies. The platform's clean user interface and intuitive console made it easier to understand and navigate compared to the other providers.
+
+## 2. What similarities exist among AWS, Azure, and GCP?
+
+All three major cloud providers share fundamental similarities in their core service offerings. Each provider offers virtual machines, object storage, networking services, and identity management. They all follow a similar pricing model with pay-as-you-go options and reserved instances. Additionally, all three platforms provide extensive free tiers for learning purposes and have comprehensive documentation and certification programs.
+
+## 3. How do business requirements influence cloud platform selection?
+
+Business requirements are the primary driver in cloud platform selection, as each provider has distinct strengths that align with different organizational needs. A startup might choose AWS for its cost-effective services and startup programs, while an organization already invested in Microsoft technologies would naturally prefer Azure. Companies focusing on data analytics and AI would benefit from GCP's superior capabilities in these areas.
+
+## 4. What did you learn from acting as a Cloud Solutions Consultant?
+
+Acting as a Cloud Solutions Consultant taught me that selecting a cloud provider involves evaluating multiple factors beyond technical capabilities. Business goals, existing infrastructure, team expertise, and budget constraints all play crucial roles in decision-making. I learned to approach cloud architecture from a business perspective, understanding that the best technical solution must also align with organizational objectives.
+
+## 5. How has your GitHub Cloud Computing Portfolio improved after completing this mission?
+
+My GitHub portfolio has significantly improved through this mission. I developed comprehensive documentation for AWS, Azure, and GCP research. The portfolio now demonstrates practical skills in cloud service research, platform comparison, and business-oriented recommendations. This has transformed my portfolio from a simple collection of notes to a professional showcase of cloud architecture capabilities.
